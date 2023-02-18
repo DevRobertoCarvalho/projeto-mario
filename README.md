@@ -3,7 +3,7 @@ Projeto desenvolvido durante a "semana do zero ao programador" oferecida pela eq
 
 
 
-[<img src="./p-mario.gif" alt="Tela principal do projeto e executando o botão de veja o trailer">](https://devrobertocarvalho.github.io/projeto-mario/)
+[<img src="./p-mario.gif" alt="Tela principal do projeto e executando o botão de veja o trailer">]
 
 ## Tecnologias utilizadas
 - HTML
@@ -18,4 +18,5 @@ Não senti dificuldades acompanhando as aulas dos gêmeos, todas as etapas foram
 Tempo, atual emprego e minha família também se tornaram um grande desafio, saber concíliar tudo isso ao aprendizado de uma nova ideia.
 
 
-[<img src="img-canal-dev.png">](https://www.youtube.com/@DevemDobro)
+### Agradecimento a equipe
+[<img src="img-canal-dev.png">](https://www.youtube.com/@DevemDobro) 
