@@ -3,7 +3,7 @@ Projeto desenvolvido durante a "semana do zero ao programador" oferecida pela eq
 
 
 
-[<img src="./p-mario.gif" alt="Tela principal do projeto e executando o botão de veja o trailer">]
+<img src="./p-mario.gif" alt="Tela principal do projeto e executando o botão de veja o trailer">
 
 ## Tecnologias utilizadas
 - HTML
