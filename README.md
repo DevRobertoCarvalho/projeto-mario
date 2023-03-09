@@ -1,5 +1,5 @@
 # Projeto Mario
-Projeto desenvolvido por mim durante a "semana do zero ao programador" oferecida pela equipe Dev em Dobro.
+Projeto desenvolvido por mim acompanhando a "semana do zero ao programador" oferecida pela equipe Dev em Dobro.
 
 
 
